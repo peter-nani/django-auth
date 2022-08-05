@@ -1,0 +1,6 @@
+pyotp==2.6.0
+Django==3.2
+django-import-export==2.8.0
+djangorestframework==3.12.4
+Pillow==9.2.0
+djangorestframework-simplejwt==5.2.0
